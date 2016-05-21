@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sameer Sengupta]]></title>
+        <description><![CDATA[Sameer Sengupta]]></description>
+        <link>https://thegrid.ai/sameersengupta/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 May 2016 05:29:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sameersengupta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Aston Shuffle - "Photographs"</p>]]></description>
+            <link>https://thegrid.ai/sameersengupta/the-aston-shuffle-photographs/index.html</link>
+            <guid isPermaLink="false">a4c42b55-0970-4505-8667-584be33cf91b</guid>
+            <pubDate>Sat, 21 May 2016 05:29:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d67da1af-1ec4-42fa-b5ee-ff71981892bb.png">]]></description>
+            <link>https://thegrid.ai/sameersengupta/heres-a-picture-of-my-studio/index.html</link>
+            <guid isPermaLink="false">ff42b8c2-4a9a-4e1c-be8a-8eb663ff2b45</guid>
+            <pubDate>Sat, 21 May 2016 05:04:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
